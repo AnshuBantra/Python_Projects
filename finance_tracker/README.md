@@ -1,0 +1,25 @@
+#   *Readme*
+-----
+
+- Create a CLI (Command Line Interface) based application
+    - Problem statement: 
+        - This application will be used to track expenses and income
+    - When the program is started: it should prompt and ask:
+        - Add
+        - List
+        - Delete
+        - Report
+        - Exit
+    - <u>Add</u>
+        - Should ask for 
+            - Amount: Numeric (User Input)
+            - Type: Income / Expense (User Input)
+            - Category: Freelance/ Job/ Business (User Input)
+    - <u>List</u>
+        - Should list all the transactions 
+    - <u>Delete</u>
+        - Should ask for transaction index to be deleted and delete it 
+    - <u>Report</u>
+        - Give a gist of all income & expense and final total
+    - <u>Exit</u>
+        - Should exit the appliation
